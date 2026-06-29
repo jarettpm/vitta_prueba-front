@@ -6,6 +6,6 @@ const COLORS = {
     white: '#FFFFFF'
 };
 
-const API_BASE = 'http://localhost:8080/api';
+const API_BASE = 'https://vitta-app-cxkl.onrender.com/api';
 const API_TIMEOUT = 10000;
 const TOAST_DURATION = 4000;
